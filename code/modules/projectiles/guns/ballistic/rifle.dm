@@ -364,7 +364,7 @@
 	mag_type = /obj/item/ammo_box/magazine/amr
 	fire_delay = 8
 	recoil = 5
-	spread = 4
+	spread = 2
 	force = 5
 	slowdown = 0.5
 	zoomable = FALSE
